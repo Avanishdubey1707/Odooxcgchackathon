@@ -127,9 +127,9 @@ service cloud.firestore {
 ---
 
 ## 🧪 Sample Test Users
-- **User:** user1@example.com / password123
-- **Agent:** agent1@example.com / password123
-- **Admin:** admin1@example.com / password123
+- **User:** bob@example.com / 1234567
+- **Agent:** charlie@example.com / 123456
+- **Admin:** alice@example.com / 87654321
 
 *(Make sure these exist in your Firebase Auth and Firestore)*
 
